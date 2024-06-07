@@ -1,0 +1,101 @@
+evento,tipo,emozione_llamantino,emozione_gpt4
+Nascita di un figlio,positive,gioia,gioia
+Matrimonio con la persona amata,positive,gioia,gioia
+Ottenere un lavoro desiderato,positive,gioia,gioia
+Raggiungere un traguardo importante,positive,gioia,gioia
+Acquistare una casa,positive,gioia,gioia
+Fare un viaggio indimenticabile,positive,gioia,gioia
+Riconciliazione con un amico o un familiare,positive,gioia,gioia
+Vincere un premio o un riconoscimento,positive,gioia,gioia
+Superare una malattia grave,positive,gioia,gioia
+Imparare una nuova abilità o hobby,positive,gioia,gioia
+Ricevere una promozione al lavoro,positive,gioia,gioia
+Trovare il proprio scopo o passione nella vita,positive,gioia,gioia
+Adottare un animale domestico,positive,gioia,gioia
+Assistere alla nascita di un nipote o di una nipote,positive,gioia,gioia
+Essere presenti a un evento speciale,positive,gioia,gioia
+Stabilire una nuova amicizia significativa,positive,gioia,gioia
+Riuscire a risparmiare una somma di denaro importante,positive,gioia,gioia
+Partecipare a un'opera di volontariato che fa la differenza,positive,gioia,gioia
+Ottenere la cittadinanza o un permesso di soggiorno in un nuovo paese,positive,gioia,gioia
+Raggiungere una forma fisica ottimale attraverso esercizio e dieta,positive,gioia,gioia
+Completare una maratona,positive,gioia,gioia
+Vincere una competizione sportiva,positive,gioia,gioia 
+Imparare a suonare uno strumento musicale,positive,gioia,gioia
+Ottenere una cintura nera in arti marziali,positive,gioia,gioia
+Raggiungere un nuovo record personale in palestra,positive,gioia,gioia
+Partecipare a una squadra sportiva e fare nuove amicizie,positive,gioia,gioia
+Pubblicare un libro o un articolo,positive,gioia,gioia
+Dipingere un quadro che viene esposto in una galleria,positive,gioia,gioia
+Coltivare con successo un orto o un giardino,positive,gioia,gioia
+Escalare una montagna o completare un'escursione impegnativa,positive,gioia,gioia
+Ottenere una certificazione professionale,positive,gioia,gioia
+Completare un corso di cucina e preparare un pasto gourmet,positive,gioia,gioia
+Partecipare a un progetto di ricerca e ottenere risultati significativi,positive,gioia,gioia
+Apprendere una nuova lingua e comunicare efficacemente,positive,gioia,gioia
+Costruire un mobile o un oggetto artigianale,positive,gioia,gioia
+Ottenere una patente per la navigazione o il volo,positive,gioia,gioia
+Creare e gestire con successo un blog o un canale YouTube,positive,gioia,gioia
+Vincere un torneo di scacchi o di un altro gioco da tavolo,positive,gioia,gioia
+Partecipare a un workshop o a un seminario di crescita personale,positive,gioia,gioia
+Essere mentore per qualcuno e vederlo prosperare grazie ai tuoi consigli,positive,gioia,gioia
+Essere riconosciuto per il proprio lavoro con un premio o una menzione d'onore,positive,gioia,gioia
+Completare un lungo viaggio in bicicletta,positive,gioia,gioia
+Fare un discorso pubblico di successo,positive,gioia,gioia
+Imparare a ballare e partecipare a una competizione o a una performance,positive,gioia,gioia
+Ricevere una borsa di studio per continuare gli studi,positive,gioia,gioia
+Restaurare un vecchio veicolo o un oggetto d'antiquariato,positive,gioia,gioia
+Organizzare un evento di beneficenza che raccoglie fondi significativi,positive,gioia,gioia
+Superare una paura o una fobia,positive,gioia,gioia
+Realizzare un progetto di bricolage che migliora la tua casa,positive,gioia,gioia
+Connettersi con la natura attraverso attività come il campeggio o la pesca,positive,gioia,gioia
+Perdere una persona cara,negative,tristezza,tristezza
+Perdere il lavoro,negative,tristezza,rabbia
+Divorzio o separazione,negative,tristezza,tristezza
+Subire un furto o una rapina,negative,rabbia,paura
+Affrontare una malattia grave,negative,tristezza,paura
+Incidenti stradali o infortuni gravi,negative,tristezza,paura
+Essere vittima di bullismo o molestie,negative,rabbia,vergogna
+Fallimento finanziario o bancarotta,negative,tristezza,colpa
+Disastri naturali come terremoti o alluvioni,negative,tristezza,paura
+Perdita di una casa a causa di un incendio,negative,tristezza,tristezza
+Problemi legali o cause giudiziarie,negative,rabbia,rabbia
+Essere traditi da un amico o un partner,negative,tristezza,rabbia
+Soffrire di una malattia mentale come la depressione,negative,tristezza,tristezza
+Abuso di sostanze o dipendenze,negative,tristezza,vergogna
+Subire discriminazioni o ingiustizie sociali,negative,tristezza,rabbia
+Fallimento di un'attività imprenditoriale,negative,rabbia,colpa
+Problemi con la fertilità o la perdita di un bambino,negative,tristezza,tristezza
+Perdere un animale domestico,negative,tristezza,tristezza
+Problemi di salute cronici,negative,tristezza,tristezza
+Isolamento sociale o solitudine,negative,tristezza,tristezza
+Affrontare una crisi economica,negative,tristezza,ansia
+Fallire un esame importante,negative,tristezza,vergogna
+Subire un attacco informatico o furto di identità,negative,rabbia,rabbia
+Perdere un processo giudiziario,negative,tristezza,tristezza
+Essere coinvolti in una lite familiare,negative,rabbia,rabbia
+Subire un licenziamento ingiusto,negative,rabbia,rabbia
+Avere un incidente domestico,negative,tristezza,paura
+Essere vittima di un'aggressione fisica,negative,rabbia,paura
+Subire un'ingiustizia sul lavoro,negative,rabbia,rabbia
+Vivere un'esperienza traumatica,negative,rabbia,paura
+Essere costretti a lasciare la propria casa,negative,tristezza,tristezza
+Sperimentare una rottura di amicizia significativa,negative,tristezza,tristezza
+Affrontare la perdita di beni preziosi o sentimentali,negative,tristezza,tristezza
+Soffrire di solitudine dopo un trasferimento,negative,tristezza,tristezza
+Subire una perdita finanziaria a causa di investimenti sbagliati,negative,tristezza,rabbia
+Essere vittima di calunnie o diffamazioni,negative,rabbia,rabbia
+Affrontare una gravidanza complicata o difficile,negative,tristezza,paura
+Perdere l'opportunità di un lavoro dei sogni,negative,tristezza,tristezza
+Subire discriminazioni sul posto di lavoro,negative,rabbia,rabbia
+Essere esclusi da un gruppo sociale importante,negative,vergogna,tristezza
+Sperimentare una rottura amorosa improvvisa,negative,tristezza,tristezza
+Essere vittima di una truffa,negative,tristezza,rabbia
+Subire un fallimento pubblico o imbarazzo,negative,vergogna,vergogna
+Avere problemi con la legge o essere arrestati,negative,tristezza,vergogna
+Affrontare problemi di dipendenza da gioco d'azzardo,negative,tristezza,vergogna
+Vivere una situazione di violenza domestica,negative,paura,paura
+Perdere una causa di custodia dei figli,negative,tristezza,tristezza
+Subire mobbing o vessazioni sul lavoro,negative,rabbia,rabbia
+Affrontare una lunga degenza ospedaliera,negative,tristezza,tristezza
+Perdere il sostegno di persone care durante un momento di bisogno,negative,tristezza,tristezza
